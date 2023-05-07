@@ -1,11 +1,10 @@
 import "./App.css";
+import Home from "./Page/Home";
 
 function App() {
   return (
     <>
-      <div>
-        <p className="underline font-bold">boeing land</p>
-      </div>
+      <Home />
     </>
   );
 }
